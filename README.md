@@ -4,7 +4,7 @@ I am a student currently pursuing my B.Tech in Computer Science and Business Sys
 
 - 🎓 **Academic Affiliation**: SASTRA Deemed University, Department of B.Tech CSBS
 - 📧 **Email**: [126018033@sastra.ac.in](mailto:126018033@sastra.ac.in)
-- 💻 **Areas of Interest**: Web Development, Ethical Hacking, Robotics
-- 🔭 **Current Focus**: Learning React, MySQL, and system design
+- 💻 **Areas of Interest**: Web Development
+- 🔭 **Current Focus**: Learning React, MongoDB, and system design
 
 Feel free to check out my repositories for projects and contributions!
