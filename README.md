@@ -4,7 +4,7 @@ I am a student currently pursuing my B.Tech in Computer Science and Business Sys
 
 - 🎓 **Academic Affiliation**: SASTRA Deemed University, Department of B.Tech CSBS
 - 📧 **Email**: [nawinthedeveloper@gmail.com](mailto:nawinthedeveloper@gmail.com)
-- 💻 **Areas of Interest**: Web Development
+- 💻 **Areas of Interest**: Web Development,Machine Learning
 - 🔭 **Current Focus**: Learning React, MongoDB, and system design
 
 Feel free to check out my repositories for projects and contributions!
